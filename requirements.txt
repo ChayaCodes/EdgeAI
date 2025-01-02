@@ -1,0 +1,6 @@
+scipy
+scikit-learn
+datasets
+tensorflow-cpu
+transformers
+tf-keras
