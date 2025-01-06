@@ -4,5 +4,5 @@ datasets
 tensorflow-cpu
 transformers
 tf-keras
-pillow
+Pillow
 matplotlib
